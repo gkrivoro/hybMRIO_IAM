@@ -1,0 +1,50 @@
+﻿country,country.exiobase,country.gcam,country.remind,country.message
+Austria,AT,EU-15,EU 28,Western Europe
+Belgium,BE,EU-15,EU 28,Western Europe
+Bulgaria,BG,EU-12,EU 28,Eastern Europe
+Cyprus,CY,EU-12,EU 28,Eastern Europe
+Czechia,CZ,EU-12,EU 28,Eastern Europe
+Germany,DE,EU-15,EU 28,Western Europe
+Denmark,DK,EU-15,EU 28,Western Europe
+Estonia,EE,EU-12,EU 28,Former Soviet Union
+Spain,ES,EU-15,EU 28,Western Europe
+Finland,FI,EU-15,EU 28,Western Europe
+France,FR,EU-15,EU 28,Western Europe
+Greece,GR,EU-15,EU 28,Western Europe
+Croatia,HR,EU-12,EU 28,Eastern Europe
+Hungary,HU,EU-12,EU 28,Eastern Europe
+Ireland,IE,EU-15,EU 28,Western Europe
+Italy,IT,EU-15,EU 28,Western Europe
+Lithuania,LT,EU-12,EU 28,Former Soviet Union
+Luxembourg,LU,EU-15,EU 28,Western Europe
+Latvia,LV,EU-12,EU 28,Former Soviet Union
+Malta,MT,EU-12,EU 28,Western Europe
+Netherlands,NL,EU-15,EU 28,Western Europe
+Poland,PL,EU-12,EU 28,Eastern Europe
+Portugal,PT,EU-15,EU 28,Western Europe
+Romania,RO,EU-12,EU 28,Eastern Europe
+Sweden,SE,EU-15,EU 28,Western Europe
+Slovenia,SI,EU-12,EU 28,Eastern Europe
+Slovakia,SK,EU-12,EU 28,Eastern Europe
+United Kingdom,GB,EU-15,EU 28,Western Europe
+United States,US,USA,United States of America,North America
+Japan,JP,Japan,Japan,Pacific OECD
+China,CN,China,China,China
+South Korea,KR,South Korea,Other Asia,Other Pacific Asia
+Brazil,BR,Brazil,Latin America and the Caribbean,Latin America and the Caribbean
+India,IN,India,India,South Asia
+Mexico,MX,Mexico,Latin America and the Caribbean,Latin America and the Caribbean
+Russia,RU,Russia,Non-EU28 Europe,Former Soviet Union
+Australia,AU,Australia_NZ,Canada_NZ_Australia,Pacific OECD
+Canada,CA,Canada,Canada_NZ_Australia,North America
+Switzerland,CH,European Free Trade Association,EU 28,Western Europe
+Turkey,TR,Europe_Non_EU,Non-EU28 Europe,Western Europe
+Taiwan,TW,Taiwan,Other Asia,Other Pacific Asia
+Norway,NO,European Free Trade Association,EU 28,Western Europe
+Indonesia,ID,Indonesia,Other Asia,Other Pacific Asia
+South Africa,ZA,South Africa,Sub-saharan Africa,Sub-saharan Africa
+RoW Asia,WA,Southeast Asia,Other Asia,Other Pacific Asia
+RoW America,WL,Central America and the Caribbean,Latin America and the Caribbean,Latin America and the Caribbean
+RoW Europe,WE,Europe_Eastern,Non-EU28 Europe,Eastern Europe
+RoW Africa,WF,Africa_Western,Sub-saharan Africa,Sub-saharan Africa
+RoW Middle East,WM,Middle East,"Middle East, North Africa, Central Asia",Middle East and North Africa
