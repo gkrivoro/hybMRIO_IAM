@@ -1,4 +1,4 @@
-﻿country,country.exiobase,country.gcam,country.remind,country.message
+country,country.exiobase,country.gcam,country.remind,country.message
 Austria,AT,EU-15,EU 28,Western Europe
 Belgium,BE,EU-15,EU 28,Western Europe
 Bulgaria,BG,EU-12,EU 28,Eastern Europe
@@ -35,8 +35,8 @@ Brazil,BR,Brazil,Latin America and the Caribbean,Latin America and the Caribbean
 India,IN,India,India,South Asia
 Mexico,MX,Mexico,Latin America and the Caribbean,Latin America and the Caribbean
 Russia,RU,Russia,Non-EU28 Europe,Former Soviet Union
-Australia,AU,Australia_NZ,Canada_NZ_Australia,Pacific OECD
-Canada,CA,Canada,Canada_NZ_Australia,North America
+Australia,AU,Australia_NZ,"Canada, NZ, Australia",Pacific OECD
+Canada,CA,Canada,"Canada, NZ, Australia",North America
 Switzerland,CH,European Free Trade Association,EU 28,Western Europe
 Turkey,TR,Europe_Non_EU,Non-EU28 Europe,Western Europe
 Taiwan,TW,Taiwan,Other Asia,Other Pacific Asia

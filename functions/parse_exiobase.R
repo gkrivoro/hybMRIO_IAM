@@ -106,15 +106,24 @@ parse_exiobase_Y<-function(raw_dat_path, n_colvars, which_rowvar=NULL,list_indus
   dt.long[,value:=NULL]
   setnames(dt.long, "value_n","value")
   
-  dt.long[,country_id.out := 2]
-  dt.long[region.out == "US",country_id.out := 1]
   
-  dt.long[,country_id.in := 2]
-  dt.long[region.in == "US",country_id.in := 1]
   
+  # 
+  # 
+  # dt.long[,country_id.out := 2]
+  # dt.long[region.out == "US",country_id.out := 1]
+  # 
+  # dt.long[,country_id.in := 2]
+  # dt.long[region.in == "US",country_id.in := 1]
+  # 
+  # 
+  setnames(dt.long, "region.out","country.out")
+  setnames(dt.long, "region.in","country.in")
   
   dt.long<-merge(dt.long,industrytable[,.(sector.old.in=sector.old, sector_id.in=sector_id)],by = c("sector.old.in") )
-  dt.long<-merge(dt.long,industrycountrytable[,.(sector_id.in=sector_id, country_id.in = country_id, id.in=id)],by = c("sector_id.in","country_id.in") )
+  dt.long<-merge(dt.long,unique(industrycountrytable[,.(country.out=country, country_id.out = country_id)]),by = c("country.out") )
+  
+  dt.long<-merge(dt.long,industrycountrytable[,.(sector_id.in=sector_id, country.in = country,country_id.in = country_id, id.in=id)],by = c("sector_id.in","country.in") )
   
   
   
@@ -361,6 +370,25 @@ gen_alpha<-function(Z.long, x, industrymapping){
   
   
 }
+
+
+gen_mu<-function(F.long,x,  other_input_ind, impact=0){
+  
+  if (impact ==1){
+    F.other<-F.long[impact%in%other_input_ind][,.(other_input=sum(value)),  by=c("id.out","sector_id.out","country_id.out")]
+    
+  } else {
+    F.other<-F.long[stressor%in%other_input_ind][,.(other_input=sum(value)),  by=c("id.out","sector_id.out","country_id.out")]
+    
+  }
+  F.other<-merge(F.other, x[,.(country_id.out=country_id,sector_id.out=sector_id,gross_output)],by =c("country_id.out","sector_id.out") )
+  F.other[,other_input_pc := other_input/gross_output]
+  F.other<-F.other[order( id.out)]
+  
+  
+  dt.mu_i<-F.other[,.(coef=mean(other_input_pc)),by="id.out"]                     
+}
+
 
 
 gen_inv.zerod<-function(dt.direct, zerod.ind,industrymapping){
