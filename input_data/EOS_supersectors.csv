@@ -1,0 +1,39 @@
+sector, sector.eos
+1-fossil|coal,1-fossil
+1-fossil|gas,1-fossil
+1-fossil|oil,1-fossil
+2-utility|electricity|fossil|coal,2-utility
+2-utility|electricity|fossil|gas,2-utility
+2-utility|electricity|fossil|oil,2-utility
+2-utility|electricity|renewable,2-utility
+2-utility|electricity|transmission,2-utility
+2-utility|waste,2-utility
+2-utility|water&sewerage,2-utility
+3-energy-intensive,2_3-manufacturing
+3-energy-intensive|cement,2_3-manufacturing
+3-energy-intensive|fertilisers and agrochemicals,2_3-manufacturing
+3-energy-intensive|iron and steel,2_3-manufacturing
+3-energy-intensive|non-fossil mining,2_3-manufacturing
+3-energy-intensive|rubber and plastics,2_3-manufacturing
+5-transportation|air,5-transportation
+5-transportation|land,5-transportation
+5-transportation|water,5-transportation
+6-agric. etc|agriculture|crops,6-agric. etc
+6-agric. etc|agriculture|forestry,6-agric. etc
+6-agric. etc|agriculture|livestock,6-agric. etc
+6-agric. etc|fishing,6-agric. etc
+7-finance,7_8_9-services
+8-scientific R&D,7_8_9-services
+9-other|food_processing,2_3-manufacturing
+9-other|manufacturing_mining|misc,2_3-manufacturing
+9-other|retail_trade,7_8_9-services
+9-other|services|admin,7_8_9-services
+9-other|services|computer,7_8_9-services
+9-other|services|education,7_8_9-services
+9-other|services|health,7_8_9-services
+9-other|services|hotels,7_8_9-services
+9-other|services|membership,7_8_9-services
+9-other|services|renting,7_8_9-services
+9-other|services|sport,7_8_9-services
+9-other|services|travel_transport,7_8_9-services
+9-other|wholesale_trade,7_8_9-services

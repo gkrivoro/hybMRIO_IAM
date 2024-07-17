@@ -1,0 +1,41 @@
+sector,macrosector
+1-fossil|coal,HighE
+1-fossil|oil,HighE
+1-fossil|gas,HighE
+2-utility|electricity|fossil|coal,HighE
+2-utility|electricity|fossil|oil,HighE
+2-utility|electricity|fossil|gas,HighE
+2-utility|electricity|renewable,HighE
+2-utility|electricity|transmission,HighE
+2-utility|waste,HighE
+2-utility|water&sewerage,HighE
+3-energy-intensive,HighE
+3-energy-intensive|cement,HighE
+3-energy-intensive|fertilisers and agrochemicals,HighE
+3-energy-intensive|iron and steel,HighE
+3-energy-intensive|non-fossil mining,HighE
+3-energy-intensive|rubber and plastics,HighE
+4-buildings,Ter
+5-transportation|air,HighE
+5-transportation|land,HighE
+5-transportation|water,HighE
+6-agric. etc|agriculture|crops,Pri
+6-agric. etc|agriculture|forestry,Pri
+6-agric. etc|agriculture|livestock,Pri
+6-agric. etc|fishing,Pri
+7-finance,Ter
+8-scientific R&D,Ter
+9-other|food_processing,Sec
+9-other|manufacturing_mining|misc,Pri
+9-other|retail_trade,Ter
+9-other|services|admin,Ter
+9-other|services|computer,Ter
+9-other|services|education,Ter
+9-other|services|health,Ter
+9-other|services|hotels,Ter
+9-other|services|membership,Ter
+9-other|services|misc,Ter
+9-other|services|renting,Ter
+9-other|services|sport,Ter
+9-other|services|travel_transport,Ter
+9-other|wholesale_trade,Ter

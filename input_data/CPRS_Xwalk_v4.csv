@@ -1,0 +1,164 @@
+sector.old,Number.old,sector
+Activities auxiliary to financial intermediation (67),130,7-finance
+Activities of membership organisation n.e.c. (91),159,9-other|services|membership
+Air transport (62),125,5-transportation|air
+Aluminium production,76,3-energy-intensive
+Animal products nec,13,6-agric. etc|agriculture|livestock
+"Biogasification of food waste, incl. land application",146,2-utility|waste
+"Biogasification of paper, incl. land application",147,2-utility|waste
+"Biogasification of sewage slugde, incl. land application",148,2-utility|waste
+Casting of metals,84,3-energy-intensive
+Cattle farming,9,6-agric. etc|agriculture|livestock
+Chemicals nec,63,3-energy-intensive|fertilisers and agrochemicals
+"Collection, purification and distribution of water (41)",112,2-utility|water&sewerage
+"Composting of food waste, incl. land application",149,2-utility|waste
+"Composting of paper and wood, incl. land application",150,2-utility|waste
+Computer and related activities (72),133,9-other|services|computer
+Construction (45),113,4-buildings
+Copper production,80,3-energy-intensive
+Cultivation of cereal grains nec,3,6-agric. etc|agriculture|crops
+Cultivation of crops nec,8,6-agric. etc|agriculture|crops
+Cultivation of oil seeds,5,6-agric. etc|agriculture|crops
+Cultivation of paddy rice,1,6-agric. etc|agriculture|crops
+Cultivation of plant-based fibers,7,6-agric. etc|agriculture|crops
+"Cultivation of sugar cane, sugar beet",6,6-agric. etc|agriculture|crops
+"Cultivation of vegetables, fruit, nuts",4,6-agric. etc|agriculture|crops
+Cultivation of wheat,2,6-agric. etc|agriculture|crops
+Distribution and trade of electricity,109,2-utility|electricity|transmission
+Education (80),137,9-other|services|education
+Extra-territorial organizations and bodies,163,9-other|services|misc
+"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",21,1-fossil|oil
+"Extraction of natural gas and services related to natural gas extraction, excluding surveying",22,1-fossil|gas
+"Extraction, liquefaction, and regasification of other petroleum and gaseous materials",23,1-fossil|oil
+"Financial intermediation, except insurance and pension funding (65)",128,7-finance
+"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing (05)",19,6-agric. etc|fishing
+"Forestry, logging and related service activities (02)",18,6-agric. etc|agriculture|forestry
+Health and social work (85),138,9-other|services|health
+Hotels and restaurants (55),119,9-other|services|hotels
+Incineration of waste: Food,139,2-utility|waste
+Incineration of waste: Metals and Inert materials,142,2-utility|waste
+Incineration of waste: Oil/Hazardous waste,145,2-utility|waste
+Incineration of waste: Paper,140,2-utility|waste
+Incineration of waste: Plastic,141,2-utility|waste
+Incineration of waste: Textiles,143,2-utility|waste
+Inland water transport,124,5-transportation|water
+"Insurance and pension funding, except compulsory social security (66)",129,7-finance
+Landfill of waste: Food,153,2-utility|waste
+Landfill of waste: Inert/metal/hazardous,156,2-utility|waste
+Landfill of waste: Paper,154,2-utility|waste
+Landfill of waste: Plastic,155,2-utility|waste
+Landfill of waste: Textiles,157,2-utility|waste
+Landfill of waste: Wood,158,2-utility|waste
+"Lead, zinc and tin production",78,3-energy-intensive
+Manufacture of basic iron and steel and of ferro-alloys and first products thereof,72,3-energy-intensive|iron and steel
+Manufacture of beverages,44,3-energy-intensive
+"Manufacture of bricks, tiles and construction products, in baked clay",68,3-energy-intensive
+"Manufacture of cement, lime and plaster",69,3-energy-intensive|cement
+Manufacture of ceramic goods,67,3-energy-intensive
+Manufacture of coke oven products,56,1-fossil|coal
+Manufacture of electrical machinery and apparatus n.e.c. (31),88,3-energy-intensive
+"Manufacture of fabricated metal products, except machinery and equipment (28)",85,3-energy-intensive
+Manufacture of fish products,45,9-other|manufacturing_mining|misc
+Manufacture of furniture; manufacturing n.e.c. (36),93,4-buildings
+Manufacture of gas; distribution of gaseous fuels through mains,110,1-fossil|gas
+Manufacture of glass and glass products,65,3-energy-intensive
+Manufacture of machinery and equipment n.e.c. (29),86,3-energy-intensive
+"Manufacture of medical, precision and optical instruments, watches and clocks (33)",90,3-energy-intensive
+"Manufacture of motor vehicles, trailers and semi-trailers (34)",91,3-energy-intensive
+Manufacture of office machinery and computers (30),87,3-energy-intensive
+Manufacture of other non-metallic mineral products n.e.c.,71,3-energy-intensive
+Manufacture of other transport equipment (35),92,5-transportation|land
+"Manufacture of radio, television and communication equipment and apparatus (32)",89,3-energy-intensive
+Manufacture of rubber and plastic products (25),64,3-energy-intensive
+Manufacture of textiles (17),47,3-energy-intensive
+Manufacture of tobacco products,144,2-utility|waste
+Manufacture of tobacco products (16),46,9-other|manufacturing_mining|misc
+Manufacture of wearing apparel; dressing and dyeing of fur (18),48,3-energy-intensive
+"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",50,9-other|manufacturing_mining|misc
+"Manure treatment (biogas), storage and land application",17,6-agric. etc|agriculture|crops
+"Manure treatment (conventional), storage and land application",16,6-agric. etc|agriculture|crops
+Meat animals nec,12,6-agric. etc|agriculture|livestock
+Mining of aluminium ores and concentrates,28,3-energy-intensive|non-fossil mining
+"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",34,9-other|manufacturing_mining|misc
+Mining of coal and lignite; extraction of peat (10),20,1-fossil|coal
+Mining of copper ores and concentrates,26,3-energy-intensive|non-fossil mining
+Mining of iron ores,25,3-energy-intensive|non-fossil mining
+"Mining of lead, zinc and tin ores and concentrates",30,3-energy-intensive|non-fossil mining
+Mining of nickel ores and concentrates,27,3-energy-intensive|non-fossil mining
+Mining of other non-ferrous metal ores and concentrates,31,3-energy-intensive|non-fossil mining
+Mining of precious metal ores and concentrates,29,3-energy-intensive|non-fossil mining
+Mining of uranium and thorium ores (12),24,3-energy-intensive|non-fossil mining
+N-fertiliser,61,3-energy-intensive|fertilisers and agrochemicals
+Other business activities (74),135,9-other|services|misc
+Other land transport,121,5-transportation|land
+Other non-ferrous metal production,82,3-energy-intensive
+Other service activities (93),161,9-other|services|misc
+P- and other fertiliser,62,3-energy-intensive|fertilisers and agrochemicals
+Paper,54,3-energy-intensive
+Petroleum Refinery,57,1-fossil|oil
+Pigs farming,10,6-agric. etc|agriculture|livestock
+"Plastics, basic",59,3-energy-intensive|rubber and plastics
+Post and telecommunications (64),127,5-transportation|land
+Poultry farming,11,6-agric. etc|agriculture|livestock
+Precious metals production,74,3-energy-intensive
+Private households with employed persons (95),162,9-other|services|misc
+Processed rice,41,9-other|food_processing
+Processing of Food products nec,43,9-other|food_processing
+Processing of dairy products,40,9-other|food_processing
+Processing of meat cattle,35,9-other|food_processing
+Processing of meat pigs,36,9-other|food_processing
+Processing of meat poultry,37,9-other|food_processing
+Processing of nuclear fuel,58,3-energy-intensive
+Processing vegetable oils and fats,39,3-energy-intensive
+Production of electricity by Geothermal,106,2-utility|electricity|renewable
+Production of electricity by biomass and waste,102,2-utility|electricity|renewable
+Production of electricity by coal,96,2-utility|electricity|fossil|coal
+Production of electricity by gas,97,2-utility|electricity|fossil|gas
+Production of electricity by hydro,99,2-utility|electricity|renewable
+Production of electricity by nuclear,98,2-utility|electricity|renewable
+Production of electricity by petroleum and other oil derivatives,101,2-utility|electricity|fossil|oil
+Production of electricity by solar photovoltaic,103,2-utility|electricity|renewable
+Production of electricity by solar thermal,104,2-utility|electricity|renewable
+"Production of electricity by tide, wave, ocean",105,2-utility|electricity|renewable
+Production of electricity by wind,100,2-utility|electricity|renewable
+Production of electricity nec,107,2-utility|electricity|renewable
+Production of meat products nec,38,9-other|food_processing
+Public administration and defence; compulsory social security (75),136,9-other|services|admin
+"Publishing, printing and reproduction of recorded media (22)",55,9-other|services|misc
+Pulp,52,3-energy-intensive
+Quarrying of sand and clay,33,9-other|manufacturing_mining|misc
+Quarrying of stone,32,9-other|manufacturing_mining|misc
+Raw milk,14,6-agric. etc|agriculture|livestock
+Re-processing of ash into clinker,70,2-utility|waste
+Re-processing of secondary aluminium into new aluminium,77,3-energy-intensive
+Re-processing of secondary construction material into aggregates,114,4-buildings
+Re-processing of secondary copper into new copper,81,3-energy-intensive
+Re-processing of secondary glass into new glass,66,3-energy-intensive
+"Re-processing of secondary lead into new lead, zinc and tin",79,3-energy-intensive
+Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,83,3-energy-intensive
+Re-processing of secondary paper into new pulp,53,3-energy-intensive
+Re-processing of secondary plastic into new plastic,60,3-energy-intensive|rubber and plastics
+Re-processing of secondary preciuos metals into new preciuos metals,75,3-energy-intensive
+Re-processing of secondary steel into new steel,73,3-energy-intensive|iron and steel
+Re-processing of secondary wood material into new wood material,51,9-other|manufacturing_mining|misc
+Real estate activities (70),131,4-buildings
+"Recreational, cultural and sporting activities (92)",160,9-other|services|sport
+Recycling of bottles by direct reuse,95,2-utility|waste
+Recycling of waste and scrap,94,2-utility|waste
+Renting of machinery and equipment without operator and of personal and household goods (71),132,9-other|services|renting
+Research and development (73),134,8-scientific R&D
+Retail sale of automotive fuel,116,1-fossil|oil
+"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",118,9-other|retail_trade
+"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",115,5-transportation|land
+Sea and coastal water transport,123,5-transportation|water
+Steam and hot water supply,111,2-utility|electricity|fossil|gas
+Sugar refining,42,3-energy-intensive
+Supporting and auxiliary transport activities; activities of travel agencies (63),126,9-other|services|travel_transport
+"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",49,3-energy-intensive
+Transmission of electricity,108,2-utility|electricity|transmission
+Transport via pipelines,122,5-transportation|land
+Transport via railways,120,5-transportation|land
+"Waste water treatment, food",151,2-utility|waste
+"Waste water treatment, other",152,2-utility|waste
+"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",117,9-other|wholesale_trade
+"Wool, silk-worm cocoons",15,6-agric. etc|agriculture|crops
