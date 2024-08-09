@@ -7,7 +7,7 @@ Using the example of the MESSAGEix-GLOBIOM, REMIND-MaGPIE, and GCAM IAMs and EXI
 
 The scripts provided are the following:
 
-1) immport_IAM.R. This script essentially prepares the IAM energy data by cleaning, filtering, and formatting it for use in subsequent analyses. It focuses on specific scenarios, regions, variables, and models relevant to the project's scope.
+1) import_IAM.R. This script essentially prepares the IAM energy data by cleaning, filtering, and formatting it for use in subsequent analyses. It focuses on specific scenarios, regions, variables, and models relevant to the project's scope.
 2) exiobase_run.R This script is central to the project, as it combines data from EXIOBASE and IAM models to create detailed energy use projections for various sectors and scenarios. It performs complex calculations to link different data sources and produce final energy series that can be used for further analysis. The output are stored in a _run_ folder which will be used to store all other results
 3) decompose.R This script focuses on decomposing the energy use projections generated in the previous step. It breaks down the energy use into different components, allowing for a more detailed analysis of what's driving the changes in energy use across different sectors, countries, and scenarios.
 4) eurostat_df/iea_df.R. These scripts are used to clean and analyze energy balances and energy prices datasets. Depending on your institution having access to IEA data (license required), you can use the Eurostat energy balance dataset (open access).
