@@ -1,5 +1,5 @@
 # hybMRIO_IAM
-Downscaling NGFS IAM final energy series to finer sectoral level using EXIOBASE.
+Downscaling IAM final energy series to finer sectoral level using EXIOBASE.
 
 in the order of what needs to be run
 
